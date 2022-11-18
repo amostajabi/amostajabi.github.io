@@ -19,10 +19,10 @@ main:
     url: /cv/
     
   - title: "Under Review"
-    url: /underReview/
+    url: /under-review/
     
   - title: "Working Papers"
-    url: /workingPapers/
+    url: /working-papers/
     
 #   - title: "Guide"
 #     url: /markdown/
