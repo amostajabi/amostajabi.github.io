@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ahmadreza Mostajabi"
 title_separator          : "-"
 name                     : &name "Ahmadreza Mostajabi"
-description              : &description "personal description"
+description              : &description "Ahmadreza Mostajabi - Personal Website"
 url                      : https://amostajabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amostajabi/amostajabi.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : ar_mostajabi
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ahmadreza Mostajabi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student in Strategy & Entrepreneurship @ London Business School"
+  location         : "London, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=IIHP_mYAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
