@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also access my CV in pdf from here https://amostajabi.github.io/files/resume_nov2022.pdf
+
 Education
 ======
 * B.Sc. Computer Software Engineering - Shiraz University, 2016
