@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also access my CV in pdf from here https://amostajabi.github.io/files/resume_nov2022.pdf
+You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/resume_nov2022.pdf) 
 
 Education
 ======
@@ -25,8 +25,9 @@ Research Interests
 Under Review
 ======
 * Platform Entry and Innovation: The Role of Adjustment Costs in Shaping Complementor Strategy
-* Under Review at Strategic Management Journal. Presented at SMS, AOM, DRUID, and BU Platform Summit.
-* with Prof. Aldona Kapacinskaite (Bocconi)
+  * Under Review at Strategic Management Journal (2022)
+  * Presented at SMS, AOM, DRUID, and BU Platform Summit.
+  * with Prof. Aldona Kapacinskaite (Bocconi)
 
 Working Papers
 ======
