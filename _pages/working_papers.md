@@ -23,3 +23,16 @@ Platform owners try to resolve frictions that complementors face for value creat
   
 market friction; platform; value creation; market expansion; complementor performance
 
+
+### The Double-Edged Sword of Market Segmentation: The Search-Quality Trade-off
+
+**Abstract:** 
+
+  
+I study how platforms’ adjustment of market segments, by creating new and more homogenous market segments, can influence demand- and supply-side dynamics in the market. Platforms distribute their products into different segment, classifying them around similar topics. These product classifications can facilitate user search, thus improving matchmaking in platforms as one of their main functions. I argue that while market segmentation can empower matchmaking in the demand-side, it can have more nuanced effects in the supply-side in terms of complementors’ incentive to innovate: while it disincentivizes innovation in the existing segments from which the new segments emerge (source segments), it promotes innovation in the newly created segments. I test my arguments in the context of Google Play Store mobile application platform. Using the introduction of 8 new segments in the market in 2016, I find that the number of new downloads increase for applications in both the source and new segments. However, while applications in source segments experience a drop-in number of updates, applications in new segments are more likely to be updated. I discuss contributions to literature on platform governance and market competition. 
+
+
+**Keywords:**
+
+  
+platform competition; matchmaking; market segmentation; complementor innovation; mobile app industry
