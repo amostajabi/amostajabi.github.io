@@ -187,12 +187,12 @@ collections:
 #   talks:
 #     output: true
 #     permalink: /:collection/:path/
-  underreview:
-      output: true
-      permalink: /:collection/:path/
-  workingpapers:
-      output: true
-      permalink: /:collection/:path/
+#   underreview:
+#       output: true
+#       permalink: /:collection/:path/
+#   workingpapers:
+#       output: true
+#       permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,25 +251,25 @@ defaults:
 #       author_profile: true
 #       share: true
 
-# _underreview
-  - scope:
-      path: ""
-      type: underreview
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+# # _underreview
+#   - scope:
+#       path: ""
+#       type: underreview
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
  
- # _workingpapers
-  - scope:
-      path: ""
-      type: workingpapers
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  # _workingpapers
+#   - scope:
+#       path: ""
+#       type: workingpapers
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
 
 # Sass/SCSS
 sass:
