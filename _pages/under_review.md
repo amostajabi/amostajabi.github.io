@@ -11,7 +11,7 @@ redirect_from:
 
 ### Platform Entry and Innovation: The Role of Adjustment Costs in Shaping Complementor Strategy
   * with Prof. Aldona Kapacinskaite (Bocconi)
-  * Under Review at Strategic Management Journal (2022)
+  * Revise and Resubmit @ Strategic Management Journal (2023)
   * Presented at SMS, AOM, DRUID, and BU Platform Summit.
 
 **Abstract:** 
