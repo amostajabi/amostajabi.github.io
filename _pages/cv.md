@@ -25,7 +25,7 @@ Research Interests
 Under Review
 ======
 * Platform Entry and Innovation: The Role of Adjustment Costs in Shaping Complementor Strategy
-  * Under Review at Strategic Management Journal (2022)
+  * R&R at Strategic Management Journal (2023)
   * Presented at SMS, AOM, DRUID, and BU Platform Summit.
   * with Prof. Aldona Kapacinskaite (Bocconi)
 
