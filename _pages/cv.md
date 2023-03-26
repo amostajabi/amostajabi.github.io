@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/resume_nov2022.pdf) 
+You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/resume_march2023.pdf) 
 
 Education
 ======
-* B.Sc. Computer Software Engineering - Shiraz University, 2016
+* Ph.D. Strategy & Entrepreneurship - London Business School, 2020 - In Progress
 * M.Sc. Business Administration - Sharif University of Technology, 2018
-* Ph.D. Strategy & Entrepreneurship - London Business School, 2020- In Progress
+* B.Sc. Computer Software Engineering - Shiraz University, 2016
 
 Research Interests
 ======
@@ -52,16 +52,12 @@ Teaching Experiences
 * Fundamentals of Computer Programming Shiraz University Teacher Assistant Fall 2013, Fall 2014
 * English as a Second Language BLI Teacher Fall 2015, Winter 2015, Spring 2016, Summer 2016
 
-Selected Work Experiences
+Professional Work Experience
 ======
 * Senior Product Manager - Snapp! Feb 2019 – July 2020
   * Core Product Manager of Snapp Ride-hailing Passenger Application, with almost 2 million rides per day
-* Product Manager - NoticeMe IM 2016 – 2017
-  * Co-founder and Product Manager of NoticeMe, an instant messaging, multi-platform application designed for Shiraz
-  * University, under supervision of Dr. Farshad Khunjush
-* Product Developer and Financial Analyst - Algofund 2016 – 2017
-  * Financial analysis and algorithm development for Algofund, an algorithm trading and market making platform
-  designed for stock market
+* English Teacher - 2016
+  * Bahar Language Institute
 
 Extra-Curricular Activities
 ======
@@ -69,7 +65,3 @@ Extra-Curricular Activities
   * London Business School - Conference Lead
 * PhD Student Representative - SE Department 2022
   * London Business School
-* BTIU Conference 2013-2015
-  * Shiraz University - President 2015, Vice President of Logistics 2013-2014
-* Scientific Association 2013-2015
-  * Shiraz University, CSE Department - Core Member of the Association
