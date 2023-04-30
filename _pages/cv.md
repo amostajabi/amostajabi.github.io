@@ -13,7 +13,7 @@ You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/
 
 Education
 ======
-* Ph.D. Strategy & Entrepreneurship - London Business School, 2020 - In Progress
+* Ph.D. Strategy & Entrepreneurship - London Business School, 2020 - In Progress (Mres 2022, MPhil 2023)
 * M.Sc. Business Administration - Sharif University of Technology, 2018
 * B.Sc. Computer Software Engineering - Shiraz University, 2016
 
