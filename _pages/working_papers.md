@@ -9,30 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-### The double-edged sword of resolving market friction in platform markets
-  * with Prof. Keyvan Vakili (LBS) and Prof. Aldona Kapacinskaite (Bocconi)
+### Competition Dynamics, Market Homogeneity, and Innovation: A Study of Product Market Changes in Platform Marketplace
+  * In preparation for submission
+  * Best Paper Nomination at AOM TIM Division
 
 **Abstract:** 
 
-  
-Platform owners try to resolve frictions that complementors face for value creation, including those associated with their access to additional markets, by lowering their cost of expansion. Extant literature is relatively silent regarding the potential impact of complementors’ market knowledge on their performance. We argue that complementors’ knowledge of the market to which they expand not only determines their within-market performance but their overall performance as well. We study this in the context of mobile-app platforms by analyzing the effect of applications’ roll-out expansion to additional markets. We find that complementors, on average, perform much better in markets they have more knowledge about. Moreover, this effect is heterogeneous across different market categories. While the effect is negligible for generic complements, market knowledge strongly impacts the performance of context-specific applications. We also find complementors that expand to markets in which they have low market knowledge hurt their overall performance in addition to that of the expanded market. Our findings imply that platform owners’ friction resolution can be a double-edged sword: while facilitating complementors’ access to additional markets provides expanded access to both complementors and users, it can have negative spillover effects on complementors’ performance in their existing markets. 
-
+Understanding the relationship between competition and innovation has been an important topic in extant literature. However, conflicting findings on the relationship between these factors have led studies to posit non-linear relationships and contextual influences like industry stages. Traditional assessments of competition intensity, primarily gauged by competitor numbers, have overlooked a crucial determinant: the similarity among market players. This paper explores how market player heterogeneity influences competition dynamics and innovation. I posit that heightened product similarity in a market segment intensifies competition, urging firms to innovate further. I examine a change in the structure of Google Play Store's product markets in 2016, creating new segments while altering product heterogeneity. This change allows disentangling the impact of changes in market size and product homogeneity in a sector, enabling me to juxtapose the two. I find that increased homogeneity in new product markets, despite a drop in market size, stimulates innovation and enhances user acquisition. Conversely, reduced size without meaningful heterogeneity changes in existing segments stifles innovation. This study highlights the role of market player heterogeneity in shaping competition and innovation perceptions. It also nuances platform policy effects, showing how creating new segments affects innovation incentives differently in existing and new markets. Additionally, it challenges the notion that product markets are solely defined by collective player understanding, revealing the influence of regulators/orchestrators in reshaping market compositions. 
 
 **Keywords:**
-
   
-market friction; platform; value creation; market expansion; complementor performance
-
-
-### The Double-Edged Sword of Market Segmentation: The Search-Quality Trade-off
-
-**Abstract:** 
-
-  
-I study how platforms’ adjustment of market segments, by creating new and more homogenous market segments, can influence demand- and supply-side dynamics in the market. Platforms distribute their products into different segment, classifying them around similar topics. These product classifications can facilitate user search, thus improving matchmaking in platforms as one of their main functions. I argue that while market segmentation can empower matchmaking in the demand-side, it can have more nuanced effects in the supply-side in terms of complementors’ incentive to innovate: while it disincentivizes innovation in the existing segments from which the new segments emerge (source segments), it promotes innovation in the newly created segments. I test my arguments in the context of Google Play Store mobile application platform. Using the introduction of 8 new segments in the market in 2016, I find that the number of new downloads increase for applications in both the source and new segments. However, while applications in source segments experience a drop-in number of updates, applications in new segments are more likely to be updated. I discuss contributions to literature on platform governance and market competition. 
-
-
-**Keywords:**
-
-  
-platform competition; matchmaking; market segmentation; complementor innovation; mobile app industry
+market homogenization; new product markets; market competition; matchmaking; innovation; platform marketplace
