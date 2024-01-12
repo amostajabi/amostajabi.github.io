@@ -24,23 +24,27 @@ Research Interests
 
 Under Review
 ======
-* Platform Entry and Innovation: The Role of Adjustment Costs in Shaping Complementor Strategy
-  * R&R at Strategic Management Journal (2023)
-  * Presented at SMS, AOM, DRUID, and BU Platform Summit.
+* Complementor Responses to Platform Entry: Heterogeneity and Cross-Platform Innovation
+  * R&R at Strategic Management Journal
+  * Presented at SMS, AOM, DRUID, and BU Platform Conferences.
   * with Prof. Aldona Kapacinskaite (Bocconi)
+* Myopic Expansions on Platforms: Evidence From Mobile Application Markets
+  * R&R at Administrative Science Quarterly
+  * Presented at SMS, DRUID, and Strategy Science Conferences
+  * with Prof. Keyvan Vakili (LBS) and Prof. Aldona Kapacinskaite (Bocconi)
 
 Working Papers
 ======
-* The double-edged sword of resolving market friction in platform markets
-  * with Prof. Keyvan Vakili (LBS) and Prof. Aldona Kapacinskaite (Bocconi)
-*  The Double-Edged Sword of Market Segmentation: The Search-Quality Trade-off
+* Competition Dynamics, Market Homogeneity, and Innovation: A Study of Product Market Changes in Platform Marketplace
+  * In preparation for submission
+  * Best Paper Nomination at AOM TIM Division
 
 Honors and Awards
 ======
 * Sharif University’s Top Educational Student; 2017
 * Shiraz University CSE Department’s Top Student; 2016
 * Iran National Elites Foundation’s Educational Award; 2016
-* Direct entrance to Sharif University’s masters program by being exempt form entrance exam; 2016
+* Direct entrance to Sharif University’s master's program by being exempt from entrance exam; 2016
 
 Teaching Experiences
 ======
