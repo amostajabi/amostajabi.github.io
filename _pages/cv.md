@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/resume_march2023.pdf) 
+You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/resume_Jan2024.pdf) 
 
 Education
 ======
