@@ -13,7 +13,7 @@ You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/
 
 Education
 ======
-* Ph.D. Strategy & Entrepreneurship - London Business School, 2020 - In Progress (Mres 2022, MPhil 2023)
+* Ph.D. Strategy & Entrepreneurship - London Business School, 2020 - 2025 (expected) (MRes 2022, MPhil 2023)
 * M.Sc. Business Administration - Sharif University of Technology, 2018
 * B.Sc. Computer Software Engineering - Shiraz University, 2016
 
@@ -24,8 +24,8 @@ Research Interests
 
 Under Review
 ======
-* Complementor Responses to Platform Entry: Heterogeneity and Cross-Platform Innovation
-  * R&R at Strategic Management Journal
+* Competing with the Platform: Complementor Positioning and Cross-Platform Response to Entry
+  * Conditional Accept at Strategic Management Journal
   * Presented at SMS, AOM, DRUID, and BU Platform Conferences.
   * with Prof. Aldona Kapacinskaite (Bocconi)
 * Myopic Expansions on Platforms: Evidence From Mobile Application Markets
@@ -35,9 +35,13 @@ Under Review
 
 Working Papers
 ======
-* Competition Dynamics, Market Homogeneity, and Innovation: A Study of Product Market Changes in Platform Marketplace
-  * In preparation for submission
-  * Best Paper Nomination at AOM TIM Division
+* Competition Perception: How Market Size and Homogeneity Shape Competition and Innovation Dynamics in Platform Markets
+  * Job Market Paper
+  * In preparation for journal submission
+  * Best Paper Nomination at AOM TIM Division (2023)
+* Navigating the Paradox: The Dual Impact of Platform Policies on Quality Improvement and Creating Frictions for Firms
+  * Data Collection and Analysis
+  * In collaboration with Prof. Keyvan Vakili (LBS)
 
 Honors and Awards
 ======
@@ -48,18 +52,19 @@ Honors and Awards
 
 Teaching Experiences
 ======
-* Digital Strategy London Business School Teacher Assistant Spring 2022, Summer 2022
-* Change Management Sharif University of Technology Teacher Assistant Spring 2019, Fall 2019, Spring 2020
-* Platform Strategy Sharif University of Technology Teacher Assistant Spring 2018
-* Organizational Behavior Sharif University of Technology Teacher Assistant Spring 2017
-* Principles of Programming Shiraz University Teacher Assistant Spring 2014
-* Fundamentals of Computer Programming Shiraz University Teacher Assistant Fall 2013, Fall 2014
-* English as a Second Language BLI Teacher Fall 2015, Winter 2015, Spring 2016, Summer 2016
+* Digital Strategy; London Business School; Teacher Assistant; 2022, 2023, 2024
+* Developing Strategy for Value Creation; London Business School; Lead Tutor; 2022, 2023, 2024
+* Change Management; Sharif University of Technology; Teacher Assistant; 2019, 2020
+* Platform Strategy; Sharif University of Technology; Teacher Assistant & Lecturer; 2018
+* Organizational Behavior; Sharif University of Technology; Teacher Assistant; 2017
+* Principles of Programming; Shiraz University; Teacher Assistant; 2014
+* Fundamentals of Computer Programming; Shiraz University; Teacher Assistant; 2013, 2014
+* English as a Second Language; Bahar Language Institute; Teacher; 2015, 2016
 
 Professional Work Experience
 ======
-* Senior Product Manager - Snapp! Feb 2019 – July 2020
-  * Core Product Manager of Snapp Ride-hailing Passenger Application, with almost 2 million rides per day
+* Senior Product Manager - Snapp! 2019, 2020
+  * Core Product Manager of Snapp, Largest Ride-hailing Platform in the Middle-East
 * English Teacher - 2016
   * Bahar Language Institute
 
