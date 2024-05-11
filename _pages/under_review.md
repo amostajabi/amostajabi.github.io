@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-### Complementor Responses to Platform Entry: Heterogeneity and Cross-Platform Innovation
-  * R&R at Strategic Management Journal
+### Competing with the Platform: Complementor Positioning and Cross-Platform Response to Entry
+  * Conditional Accept at Strategic Management Journal
   * Presented at SMS, AOM, DRUID, and BU Platform Conferences.
   * with Prof. Aldona Kapacinskaite (Bocconi)
 
 **Abstract:** 
 
   
-Prior research has documented adverse effects of platform owner entry into complementor spaces. This study examines how complementor heterogeneity affects the rate and direction of innovation across diverse competitive landscapes. We argue that firms with multihoming experience prior to platform entry shift their innovative effort to a competing platform, while singlehoming complementors focus their innovation on the focal platform. Following Apple’s “Files” app entry, we find that singlehoming firms increase ex-post innovation on the focal platform (Apple App Store), albeit to varying degrees across different product markets, whereas multihoming firms shift their innovative effort to a competing platform (Google Play Store). This paper contributes to platform entry literature by highlighting complementor heterogeneity as a driver of the rate and direction of innovation. 
+This study examines complementor response to competition with the platform owner. We account for the existence of complementors’ outside option of repositioning to a competing  platform, and we argue that generalists experience low repositioning cost and are more likely  to shift effort to a competing platform, while specialists focus on the focal platform. We  examine Apple’s “Files” app entry and find support for our hypotheses. Contrasting Apple’s entry with that of other non-platform large firms, we find that only the platform owner elicits  a strong complementor response, highlighting unique characteristics of platform owner as  competitor. This paper contributes to the competitive and corporate strategy literatures, underscoring how complementor heterogeneity affects cross-platform allocation of effort when the platform owner becomes a competitor in complementor spaces.
 
 **Keywords:**
 
-  
-Platform entry; complementor innovation; multihoming; resource reallocation
+
+platform entry; complementor heterogeneity; specialist and generalist firms; repositioning cost; multihoming 
 
 
 ### Myopic Expansions on Platforms: Evidence From Mobile Application Markets
