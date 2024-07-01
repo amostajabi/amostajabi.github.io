@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/cv_may2024.pdf) 
+You can also access my CV in pdf from [HERE](https://amostajabi.github.io/files/cv.pdf) 
 
 Education
 ======
@@ -22,12 +22,15 @@ Research Interests
 * Competitive and Innovative Dynamics
 * Platform Strategy
 
-Under Review
+Accepted Papers
 ======
 * Competing with the Platform: Complementor Positioning and Cross-Platform Response to Entry
-  * Conditional Accept at Strategic Management Journal
+  * Accepted at Strategic Management Journal
   * Presented at SMS, AOM, DRUID, and BU Platform Conferences.
   * with Prof. Aldona Kapacinskaite (Bocconi)
+
+Under Review
+======
 * Myopic Expansions on Platforms: Evidence From Mobile Application Markets
   * R&R at Administrative Science Quarterly
   * Presented at SMS, DRUID, and Strategy Science Conferences
@@ -60,6 +63,14 @@ Teaching Experiences
 * Principles of Programming; Shiraz University; Teacher Assistant; 2014
 * Fundamentals of Computer Programming; Shiraz University; Teacher Assistant; 2013, 2014
 * English as a Second Language; Bahar Language Institute; Teacher; 2015, 2016
+
+Ad hoc Reviewer
+======
+* Organization Science Journal
+* Research Policy Journal
+* Academy of Management Conference
+* Strategic Management Society Conference
+* DRUID Conference
 
 Professional Work Experience
 ======
