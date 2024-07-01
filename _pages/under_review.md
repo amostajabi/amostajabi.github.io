@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Competing with the Platform: Complementor Positioning and Cross-Platform Response to Entry
-  * Conditional Accept at Strategic Management Journal
+  * Accepted at Strategic Management Journal
   * Presented at SMS, AOM, DRUID, and BU Platform Conferences.
   * with Prof. Aldona Kapacinskaite (Bocconi)
 
