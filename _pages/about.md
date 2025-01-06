@@ -4,6 +4,7 @@ title: "Ahmadreza Mostajabi"
 excerpt: "About me"
 author_profile: true
 url: https://mostajabi.com/
+canonical_url: https://mostajabi.com/
 redirect_from: 
   - /about/
   - /about.html
