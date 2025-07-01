@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ahmadreza Mostajabi"
   avatar           : "profile.png"
-  bio              : "PhD Candidate @ London Business School"
-  location         : "London, UK"
+  bio              : "Assistant Professor of Strategy and Entrepreneurship @ Singapore Management University"
+  location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IIHP_mYAAAAJ&hl=en&oi=ao"
-  email            : "amostajabi[at]london.edu"
+  email            : "ahmadrezam[at]smu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
