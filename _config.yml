@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ahmadreza Mostajabi"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Strategy and Entrepreneurship @ Singapore Management University"
+  bio              : "Assistant Professor @ Singapore Management University"
   location         : "Singapore"
-  employer         :
+  employer         : "https://faculty.smu.edu.sg/profile/ahmadreza-mostajabi-8156"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IIHP_mYAAAAJ&hl=en&oi=ao"
   email            : "ahmadrezam[at]smu.edu.sg"
