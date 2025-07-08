@@ -22,3 +22,7 @@ Research Interests:
 * Platforms and Platform Strategy
 * Entrepreneurship Policy
 
+![](images/lbs.png)
+![](images/smu.png)
+
+
