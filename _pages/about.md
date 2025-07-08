@@ -27,7 +27,7 @@ Research Interests:
 
 <p>
   <img src="images/lbs.jpg" alt="University 1" width="100" height="auto" style="margin-right: 20px;">
-  <img src="images/smu.png" alt="University 2" width="100" height="auto">
+  <img src="images/smu.png" alt="University 2" width="200" height="auto">
 </p>
 
 
