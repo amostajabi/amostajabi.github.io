@@ -22,7 +22,13 @@ Research Interests:
 * Platforms and Platform Strategy
 * Entrepreneurship Policy
 
-![](images/lbs.png)
-![](images/smu.png)
+<!-- ![](images/lbs.jpg)
+![](images/smu.png) -->
+
+<p>
+  <img src="images/lbs.jpg" alt="University 1" width="100" height="auto" style="margin-right: 20px;">
+  <img src="images/smu.png" alt="University 2" width="100" height="auto">
+</p>
+
 
 
