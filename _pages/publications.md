@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Competing with the Platform: Complementor Positioning and Cross-Platform Response to Entry
-Kapacinskaite, A., & Mostajabi, A. (2024). Competing with the platform: Complementor positioning and cross-platform response to entry. Strategic Management Journal, 1–31. https://doi.org/10.1002/smj.3643
+Kapacinskaite, A., & Mostajabi, A. (2024). Competing with the platform: Complementor positioning and cross-platform response to entry. Strategic Management Journal, 45(12), 2577–2607. https://doi.org/10.1002/smj.3643
 
 **Research Summary:** 
 
