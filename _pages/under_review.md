@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ### Myopic Expansions on Platforms: Evidence From Mobile Application Markets
-  * R&R at Administrative Science Quarterly
+  * Revise and Resubmit at Administrative Science Quarterly
   * Presented at SMS, DRUID, and Strategy Science Conferences
-  * with Prof. Keyvan Vakili (LBS) and Prof. Aldona Kapacinskaite (Bocconi)
+  * with Prof. Keyvan Vakili (LBS) and Prof. Aldona Kapacinskaite (INSEAD)
 
 **Abstract:** 
 
