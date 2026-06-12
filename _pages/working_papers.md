@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-### Market Homogenization: How Creating New Product Markets Impacts Matchmaking and Innovation in Platform Marketplaces
+### Market Homogenization: How Creating New Categories Shapes Firms’ Competition Perception and Effort Investment in Platforms
 
-  * Job Market Paper
-  * Under Review
+  * Revise and Resubmit at Strategic Management Journal
   * Best Paper Nomination at AOM TIM Division (2023)
 
 **Abstract:** 
