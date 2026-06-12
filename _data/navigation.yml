@@ -21,8 +21,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Under Review"
-    url: /under_review/
+  # - title: "Under Review"
+  #   url: /under_review/
     
   - title: "Working Papers"
     url: /working_papers/
